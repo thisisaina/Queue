@@ -1,4 +1,5 @@
 class CircularQueue {
+    
     private static final int maxSize = 101;
     private int[] a = new int[maxSize];
     private int front = 0; // Index of the front element
